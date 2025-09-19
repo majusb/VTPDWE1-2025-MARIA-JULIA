@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sobre Mim</title>
+    </head>
+    <body>
+        <h1> Maria Julia </h1>
+        <img src="caminho da foto trocar depois" alt="Foto de Maria Julia">
+    
+        <h2>Meus Hobbies</h2>
+        <p>Gosto muito de cozinhar, assistir filmes, séries e animes, gosto de ler livros de romance e suspense, gostar de pintar com lápis aquarelavel, ouvir música, gosto de jogar jogos de tabuleiro, cartas e eletronicos, atualmente estou tentando cuidar de plantas</p>
+
+        <h2>Contatos</h2>
+        <p>Email: m.sedoguchi@aluno.ifsp.edu.br</p>
+            
+        <h2>Redes Sociais</h2>
+        <p>Instagram: mariajuliasedoguchi</p>
+        <p>GitHub: mariajulia sedoguchi</p>
+
+        <h2>Johnny</h2>
+        <p>Johnny é meu cachorro de estimação ele está com a minha família a pelo menos 10 anos, ele é muito dócil</p>
+        <img src="caminho da foto" alt="Foto do Johnny">
+                
+        <h2>Músicas Favoritas</h2>
+        <p>Eu gosto muito de pop e rock, mas eu ouço um pouco de tudo</p>
+        <p> <a href="" ></a> </p>
+
+        <h2>Comidas Favoritas</h2>
+        <p>Gosto muito de doces com chocolate e de comida italiana</p>
+        <p> <a href="" Aqui está um link com algumas das minhas receitas favoritas ></a></p>
+    
+    </body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Minhas 5 Músicas Favoritas</title>
+    </head>
+    <body>
+        <h1>Minhas 5 Músicas Favoritas</h1>
+        <h2>Golden | </h2>
+        <h2>Cut my hair | </h2>
+        <h2>back to me |</h2>
+        <h2>amydala</h2>
+        <h2>set me free</h2>
+        <h2>Vibe</h2>
+        <h2>tomorrow</h2>
+        <h2>Genius</h2>
+    </body>
+</html>
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Receitas Maravilhosas</title>
+    </head>
+    <body>
+        <h1>Duas das minhas receitas favoritas</h1>
+
+        <h2>Macarrao com molho Rose</h2>
+        <img src="" alt="Foto do macarrão com molho rose">
+        <h3>Ingredientes</h3>
+        <p>2 panelas</p>
+        <p>1 molho de tomate</p>
+        <p>farinha</p>
+        <p>leite</p>
+        
+        <h4>Modo de Preparo</h4>
+
+        <h2>Mousse de Maracujá</h2>
+        <img src="" alt="Foto do Mousse de Maracujá" >
+        <h3>Ingredientes</h3>
+        <p>1 lata de leite condensado></p>
+        
+        <h4>Modo de Preparo</h4>
+    
+    
+    </body>
+</html>
